@@ -1,0 +1,6 @@
+*.csv
+db/
+test.py
+scraper.dat
+data/
+*.pdf
